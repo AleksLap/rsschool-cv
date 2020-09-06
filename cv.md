@@ -2,6 +2,7 @@
 ## Contacts
 **+375 29 111-01-77**<br/>
 **a.lapanovich@gmail.com**
+[Facebook](https://www.facebook.com/alexander.lapanovich.7/)
 ## Summary
 I'm going to start career in IT sector as a Junior Front-end Developer. I enjoy to learn new things and after use this knowledge to create something interesting and useful.
 Also i like to work in team with people because we can grow our skills and learn something new from each other. All this motivate me to do the best what i can to get a good result.

@@ -1,7 +1,7 @@
 # Aliaksander Lapanovich
 ## Contacts
 **+375 29 111-01-77**<br/>
-**a.lapanovich@gmail.com**
+**a.lapanovich@gmail.com**<br/>
 [Facebook](https://www.facebook.com/alexander.lapanovich.7/)
 ## Summary
 I'm going to start career in IT sector as a Junior Front-end Developer. I enjoy to learn new things and after use this knowledge to create something interesting and useful.

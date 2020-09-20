@@ -22,9 +22,9 @@ Development of web applications in JavaScript.
   * [Scrimba: The React Bootcamp](https://scrimba.com/course/greact) (in process)
   * Basics of PHP and MYSQL
 ## Skills
-Advanced in HTML(HTML5)<br/>
-Advanced in CSS(SASS, SCSS)<br/>
-Advanced in JavaScript(ES5, ES6)<br/>
+Average in HTML(HTML5)<br/>
+Average in CSS(SASS, SCSS)<br/>
+Average in JavaScript(ES5, ES6)<br/>
 Basic in PHP<br/>
 Basic in MYSQL
 ## Experience and code examples
